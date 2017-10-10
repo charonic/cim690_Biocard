@@ -1,17 +1,7 @@
-body {color: #FF00FF;
-font-family: serif, sans-serif}
-p{color:green}
-.we {color:red;}
-.big {color:teal}
-.quotes {font-size: 40px;}
-.wutface {resize: horizontal:10px}
-@media (min-width: 576px)
-    .we{
-        background: purple;
-}
-}
 
-<body style="background-image:url(bgimage.jpg)">
+h1 {
+   text-align:center;
+}
 
 
 
