@@ -1,0 +1,33 @@
+body {color: #FF00FF;
+font-family: serif, sans-serif}
+p{color:green}
+.we {color:red;}
+.big {color:teal}
+.quotes {font-size: 40px;}
+.wutface {resize: horizontal:10px}
+@media (min-width: 576px)
+    .we{
+        background: purple;
+}
+}
+
+<body style="background-image:url(bgimage.jpg)">
+
+
+
+
+
+/* Extra small devices (portrait phones, less than 576px)
+// No media query since this is the default in Bootstrap
+
+/* Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+/* Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+/* Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+/* Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { .pink }
